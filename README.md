@@ -18,8 +18,10 @@ Copy `.env.example` to `.env` and add your API keys:
 - `guide.ipynb`: Main tutorial notebook
 - `data/`: Data files for examples and testing
 - `evaluation/`: Evaluation scripts using Promptfoo
-
 - the source of this repository is: https://github.com/anthropics/anthropic-cookbook/tree/main/skills/classification
-
 - myself has not run the model evaluation
+
+## Notes
+- one important model simple model has been deleted from this code. Please refer to the original code for best result
+  
 
